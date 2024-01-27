@@ -1,2 +1,2 @@
 # DsAlgo
-Famous Data Structures and algorithms problems I came across while learning Python
+Famous Data Structures and algorithms problems written in Java
